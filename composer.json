@@ -1,0 +1,16 @@
+{
+    "name": "lucian/composer2",
+    "description": "composer quest",
+    "autoload": {
+        "psr-4": {
+            "Lucian\\Composer2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lucianpurcaru",
+            "email": "lucian.purcaru@gmail.com"
+        }
+    ],
+    "require": {}
+}
