@@ -2,7 +2,7 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-use Lucian\Composer2\Hello;
+use App\Hello;
 
 $hello = new Hello();
 echo $hello->talk();

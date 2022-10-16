@@ -1,6 +1,6 @@
 <?php
 
-namespace Lucian\Composer2;
+namespace App;
 
 class Hello
 {
